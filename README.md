@@ -13,7 +13,7 @@ Abby: No, in my experience, anyone who is going to be an idiot on the full moon,
 
 That moment I've decided I'll try to settle the debate between Buck and Abby, and see which one of them is right, if there is correlation between full moon and rise in crime, or not.
 
-I've downloaded a [dataset of full moon dates](https://www.kaggle.com/datasets/lsind18/full-moon-calendar-1900-2050?select=full_moon.csv), and a [dataset of complaints recorded by the NYPD between 2006 to 2021](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i), and started my analysis, using SQL Server and Tableau.
+I've downloaded a [dataset of full moon dates](https://www.kaggle.com/datasets/lsind18/full-moon-calendar-1900-2050?select=full_moon.csv), and a [dataset of complaints recorded by the NYPD from 2006 to 2021 (inclusive)](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i), and started my analysis, using SQL Server and Tableau.
 
 So, who was right, Buck or Abby?
 Well, not that I had any doubt in her, she is good at her job after all (and Buck was only 2 months on the job at that time!), Abby was right, since I didn't find any correlation between full moon and rise in crime.
